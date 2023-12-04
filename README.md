@@ -27,5 +27,4 @@ address this issue through an automated cloud-based system.
 Development of a Convolutional Neural Network (CNN) for MRI image classification on the
 AWS cloud platform.
 
-## 5. Cloud Services Utilized: The project leverages AWS resources, including Amazon SageMaker, AWS
-Lambda Function, and Amazon API Gateway.
+## 5. Cloud Services Utilized: The project leverages AWS resources, EC2 Instances, and Flask.
